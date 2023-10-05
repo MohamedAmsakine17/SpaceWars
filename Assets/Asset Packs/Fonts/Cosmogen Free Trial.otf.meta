@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5ddda050ce67e044e9c9b3036e0022e6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cosmogen Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f18a4017ee4b09b4dbf54568c4d4a018, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
